@@ -21,3 +21,31 @@
 
     font-size: 23px;
 }
+
+nav{
+    display: flex;
+
+    flex-direction: row;
+    justify-content: space-around;
+
+    align-items: center;
+
+    grid-column: 2/3;
+    grid-row: 2/3;
+
+    font-size: 20px;
+}
+
+#potatismos{
+    display: flex;
+
+    flex-direction: row;
+
+    min-width: 10%;
+    height: 50%;
+}
+
+
+a:visited{
+    color: black;
+}
