@@ -81,3 +81,40 @@ a{
 
     background-color: #6CF1E4;
 }
+
+#bilder{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+    grid-column: 2/3;
+    grid-row: 4/5;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#potatismos{
+    height: 170px;
+    max-width: 400px;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#rökt-sidfläsk{
+    height: 170px;
+    max-width: 400px;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#mat{
+    height: 170px;
+    max-width: 300px;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
