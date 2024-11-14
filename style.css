@@ -70,3 +70,14 @@ a:visited{
 a{
     text-decoration: none;
 }
+
+#Information{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    grid-column: 2/3;
+    grid-row: 3/4;
+
+    background-color: #6CF1E4;
+}
