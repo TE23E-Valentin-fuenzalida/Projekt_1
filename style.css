@@ -36,7 +36,7 @@ nav{
     font-size: 20px;
 }
 
-#potatismos{
+#Potatismos{
     display: flex;
 
     flex-direction: row;
@@ -49,7 +49,18 @@ nav{
     background-color: #F4F164;
 }
 
+#Rökt-sidfläsk{
+    display: flex;
 
+    flex-direction: row;
+
+    min-width: 18%;
+    height: 30%;
+
+    font-size: 30px;
+
+    background-color: #72EDD0;
+}
 
 
 a:visited{
